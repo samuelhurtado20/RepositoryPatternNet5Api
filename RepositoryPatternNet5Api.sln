@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPatternNetCoreApi", "RepositoryPatternNetCoreApi\RepositoryPatternNetCoreApi.csproj", "{4D7E84C2-890F-4888-9154-34E6681A9403}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPatternNet5Api", "RepositoryPatternNet5Api\RepositoryPatternNet5Api.csproj", "{4D7E84C2-890F-4888-9154-34E6681A9403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
