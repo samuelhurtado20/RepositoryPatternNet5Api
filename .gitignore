@@ -1,0 +1,7 @@
+RepositoryPatternNetCoreApi/bin/
+RepositoryPatternNetCoreApi/bin/Debug/
+RepositoryPatternNetCoreApi/bin/Debug/net5.0/
+RepositoryPatternNetCoreApi/obj/
+RepositoryPatternNetCoreApi/obj/Debug/
+RepositoryPatternNetCoreApi/obj/Debug/net5.0/
+RepositoryPatternNetCoreApi/bin/Debug/net5.0/RepositoryPatternNetCoreApi.deps.json
